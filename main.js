@@ -26,8 +26,8 @@ const map = new Map({
 
 const style = new Style({
   stroke: new Stroke({
-    color: '#EAE911',
-    width: 2,
+    color: '#AA0000',
+    width: 1,
   }),
 });
 
